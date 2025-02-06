@@ -1,7 +1,5 @@
 <h1 align="center">
-  <br>
-  <!-- Replace URL with actual logo -->
-  <img src="/api/placeholder/120/120" alt="AkaneBot Logo" width="120">
+  <img src="https://raw.githubusercontent.com/AkaneBot-Projects/.github/refs/heads/main/profile/Proyek%20Baru%20%5B0C74733%5D.png" alt="AkaneBot Logo" width="120">
   <br>
   AkaneBot Projects
   <br>
