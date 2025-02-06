@@ -1,6 +1,6 @@
 # 🤖 AkaneBot Projects
 
-Welcome to the official GitHub repository of AkaneBot Projects! We're dedicated to developing innovative Discord bot solutions and tools to enhance community engagement and management.
+Welcome to the official GitHub repository of AkaneBot Projects! We're dedicated to developing innovative WhatsApp Discord Telegram bot solutions and tools to enhance community engagement and management.
 
 ## 🌟 About Us
 
@@ -46,6 +46,6 @@ Our projects are licensed under the MIT License - see individual repositories fo
 ### Connect with Us
 
 [![Discord](https://img.shields.io/discord/YOUR_SERVER_ID?color=7289DA&logo=discord&logoColor=white)](https://discord.gg/akane)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AkaneBotDev?style=social)](https://twitter.com/akanebotdev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AkaneBot?style=social)](https://twitter.com/akanebot)
 
 </div>
